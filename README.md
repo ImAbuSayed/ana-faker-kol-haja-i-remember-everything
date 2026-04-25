@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> أنا فاكر كل حاجة في هذا الليل
+> عطرك الباقي يأخذني كالدليل
+> روحي تنادي وعيني لا تنام
+> هذا الحب يحرقني في الغرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
