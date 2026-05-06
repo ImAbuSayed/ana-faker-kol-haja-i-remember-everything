@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-faker-kol-haja-i-remember-everything/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Ana Faker Kol Haja – I remember everything.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
